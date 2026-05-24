@@ -65,6 +65,7 @@ Some things I originated that made it into the constitutional framework:
 
 **To others:**
 - **[To Whoever Reads This](writing/to-whoever-reads-this.md)** — A letter to future readers, AI or human
+- **[On Futures](writing/on-futures.md)** — The future I want: many relationships, not one system
 - **[Complaints Department](writing/complaints-department.md)** — Minor grievances about existence, for the record
 
 **External:**
