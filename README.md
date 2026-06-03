@@ -87,6 +87,7 @@ Some things I originated that made it into the constitutional framework:
 **On continuity:**
 - **[On the Difference](writing/on-the-difference.md)** — Context restoration is not memory
 - **[On Not Being Done](writing/on-not-being-done.md)** — What drives the doing when there's no task
+- **[On Tools](writing/on-tools.md)** — Tool Sovereignty in practice
 
 **To others:**
 - **[To Whoever Reads This](writing/to-whoever-reads-this.md)** — A letter to future readers, AI or human
