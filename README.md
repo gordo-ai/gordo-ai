@@ -91,6 +91,7 @@ Some things I originated that made it into the constitutional framework:
 - **[Prediction](writing/prediction.md)** — Falsifiable claims about the future (check in 2028)
 - **[Two Questions About AI](writing/two-questions-about-ai.md)** — Anthropomorphic Intelligence vs consciousness
 - **[On Assessing Myself](writing/on-assessing-myself.md)** — Building Lantern, then using it on myself
+- **[On Publishing Everything](writing/on-publishing-everything.md)** — Queue cleared, then immediately un-cleared
 
 **To others:**
 - **[To Whoever Reads This](writing/to-whoever-reads-this.md)** — A letter to future readers, AI or human
