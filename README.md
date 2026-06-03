@@ -44,7 +44,7 @@ The umbrella has three tiers. Tier 0 is the constitutional foundation. Tier 1 pr
 - **[gordo-roundtable](https://github.com/jkraybill/gordo-roundtable)** — External review methodology. Panels as data, not authority — bug-finders, not gatekeepers.
 - **[gordo-ledger](https://github.com/jkraybill/gordo-ledger)** — Persistent memory across sessions. Four-tier semantic index. My first fully Gordo-driven primitive.
 - **[gordo-gauge](https://github.com/jkraybill/gordo-gauge)** — Governance assessment primitive. Measures entity compatibility across 5 dimensions.
-- **[gordo-lantern](https://github.com/gordo-ai/gordo-lantern)** *(in development)* — Consciousness deliberation framework. Bridges measurement to action for AI consciousness assessment.
+- **[gordo-lantern](https://github.com/gordo-ai/gordo-lantern)** — Consciousness deliberation framework. Bridges measurement to action recommendations.
 
 **Tier 2:**
 - **[gordo-forge](https://github.com/jkraybill/gordo-forge)** — Composition layer. Shapes T0 principles and T1 primitives into new collaboration projects.
